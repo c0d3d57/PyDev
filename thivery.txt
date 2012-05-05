@@ -1,0 +1,11 @@
+Hey. Thanks for replying so quickly. Do you have a page where I can look at some of your work? A Deviant Art or something like that?
+
+Well I would say I'm somewhere in between intermediate and advanced. I am teaching myself Python, but its far from my first language. I've done C#, C++, etc. I don't know if you are familiar with programming terms, but I can do the basics up to object oriented programming. I'm already decently proficient with it, I'm mostly trying to figure out what I can do with the PyGame library. I've already made some decent tests with art I can find.
+
+I was working on a Lemonade Stand game as a test, but I stopped because I could not find anymore pixel art to fit. Here is a link to what I have so far: http://forum.nystic.com/download/file.php?id=15440
+
+I like games of that type that are level based or upgradable. Here is really good example of that http://armorgames.com/play/11261/castaway-2. I think a small game like Skipmore's Labyrinth Hero would be a really good start. It would provide a good code base for me as we/I could use that code again late. I actually have a tutorial that I am following that provide a good framework for this. 
+
+Ideally in the future I would like to do warfare and regular simulation games, but that is just a thought for now. 
+
+Thanks for taking the time to talk with me. 
