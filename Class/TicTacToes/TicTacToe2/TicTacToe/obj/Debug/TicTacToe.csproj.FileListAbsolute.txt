@@ -1,0 +1,13 @@
+C:\Users\Super3\Code\TicTacToe\TicTacToe\Bin\Debug\ApplicationIcon.png
+C:\Users\Super3\Code\TicTacToe\TicTacToe\Bin\Debug\Background.png
+C:\Users\Super3\Code\TicTacToe\TicTacToe\Bin\Debug\TicTacToe.dll
+C:\Users\Super3\Code\TicTacToe\TicTacToe\Bin\Debug\TicTacToe.pdb
+C:\Users\Super3\Code\TicTacToe\TicTacToe\Bin\Debug\AppManifest.xaml
+C:\Users\Super3\Code\TicTacToe\TicTacToe\Bin\Debug\TicTacToe.xap
+C:\Users\Super3\Code\TicTacToe\TicTacToe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Super3\Code\TicTacToe\TicTacToe\obj\Debug\App.g.i.cs
+C:\Users\Super3\Code\TicTacToe\TicTacToe\obj\Debug\MainPage.g.i.cs
+C:\Users\Super3\Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Users\Super3\Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.dll
+C:\Users\Super3\Code\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Super3\Code\TicTacToe\TicTacToe\obj\Debug\XapCacheFile.xml
